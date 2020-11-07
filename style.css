@@ -1,0 +1,20 @@
+body {
+	background-color: #9a9999;
+}
+
+h1 {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+	background-color: lightblue;
+	height: 200px;
+	width: 500px;
+	margin: auto;
+	padding-top: 20px;
+}
+
+input {
+	text-align: center;
+}
